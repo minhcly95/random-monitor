@@ -10,7 +10,7 @@ Used libraries:
 - [Vue.js](https://vuejs.org): frontend framework, allowing dynamic binding between HTML and JavaScript.
 - [Vuetify.js](https://vuetifyjs.com): Google's Material design for  Vue.js.
 - [jQuery](https://jquery.com): convenient element-querying library.
-- [Lodash](https://lodash.com): utility library (for `_.debounce` and `_.throttle` functions).
+- [Lodash](https://lodash.com): utility library (for `_.sample`, `_.debounce`, and `_.throttle` functions).
 - [Chart.js](http://www.chartjs.org): chart engine.
 
 This code is published under the [MIT license](https://raw.githubusercontent.com/minhcly95/random-monitor/master/LICENSE.txt).

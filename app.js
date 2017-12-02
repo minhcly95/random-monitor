@@ -30,7 +30,7 @@ var app = new Vue({
         theme: "dark",
 
         colors: colors,
-        chosenColor: 'green',
+        chosenColor: _.sample(Object.keys(colors)),
 
         // Show FAB for 1s
         showFab: _.throttle(function () {
