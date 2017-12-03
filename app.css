@@ -1,6 +1,14 @@
 html, body {
     margin: 0;
     height: 100%;
+    overflow-y: hidden;
+}
+
+#canvas-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
 }
 
 #about a {
